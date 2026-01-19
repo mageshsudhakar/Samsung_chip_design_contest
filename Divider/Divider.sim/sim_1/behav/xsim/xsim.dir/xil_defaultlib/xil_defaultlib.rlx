@@ -1,0 +1,10 @@
+0.7
+2020.2
+May 22 2025
+00:13:55
+C:/Users/smage/Desktop/IIITB/Sem 2/PE/floating point divider/Divider/Divider.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,,,,,,,
+C:/Users/smage/Desktop/IIITB/Sem 2/PE/floating point divider/Divider/Divider.srcs/sim_1/new/tb_fp_divider.v,1768750282,verilog,,,,tb_fp_divider,,,../../../../../../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/smage/Desktop/IIITB/Sem 2/PE/floating point divider/Divider/Divider.srcs/sources_1/new/coeff_lut.v,1768733329,verilog,,C:/Users/smage/Desktop/IIITB/Sem 2/PE/floating point divider/Divider/Divider.srcs/sources_1/new/fp_divider_top.v,,coeff_lut,,,../../../../../../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/smage/Desktop/IIITB/Sem 2/PE/floating point divider/Divider/Divider.srcs/sources_1/new/fp_divider_top.v,1768751379,verilog,,C:/Users/smage/Desktop/IIITB/Sem 2/PE/floating point divider/Divider/Divider.srcs/sources_1/new/linear_eval.v,,fp_divider_top,,,../../../../../../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/smage/Desktop/IIITB/Sem 2/PE/floating point divider/Divider/Divider.srcs/sources_1/new/linear_eval.v,1768751344,verilog,,C:/Users/smage/Desktop/IIITB/Sem 2/PE/floating point divider/Divider/Divider.srcs/sources_1/new/normalize.v,,linear_eval,,,../../../../../../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/smage/Desktop/IIITB/Sem 2/PE/floating point divider/Divider/Divider.srcs/sources_1/new/normalize.v,1768733354,verilog,,C:/Users/smage/Desktop/IIITB/Sem 2/PE/floating point divider/Divider/Divider.srcs/sim_1/new/tb_fp_divider.v,,normalize,,,../../../../../../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,

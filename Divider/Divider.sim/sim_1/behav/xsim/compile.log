@@ -1,0 +1,10 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/smage/Desktop/IIITB/Sem 2/PE/floating point divider/Divider/Divider.srcs/sources_1/new/coeff_lut.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module coeff_lut
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/smage/Desktop/IIITB/Sem 2/PE/floating point divider/Divider/Divider.srcs/sources_1/new/fp_divider_top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fp_divider_top
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/smage/Desktop/IIITB/Sem 2/PE/floating point divider/Divider/Divider.srcs/sources_1/new/linear_eval.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module linear_eval
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/smage/Desktop/IIITB/Sem 2/PE/floating point divider/Divider/Divider.srcs/sources_1/new/normalize.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module normalize
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/smage/Desktop/IIITB/Sem 2/PE/floating point divider/Divider/Divider.srcs/sim_1/new/tb_fp_divider.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_fp_divider

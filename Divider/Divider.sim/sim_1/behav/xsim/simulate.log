@@ -1,0 +1,13 @@
+Time resolution is 1 ps
+====================================
+ Floating Point Divider Testbench 
+====================================
+X = 3f800000, Y = 3f800000 -> Q = 3f800000
+X = 40000000, Y = 3f800000 -> Q = 40000000
+X = 3f800000, Y = 40000000 -> Q = 3f000000
+X = 40600000, Y = 3fe00000 -> Q = 40000000
+X = c0800000, Y = 40000000 -> Q = c0000000
+====================================
+ End of basic tests 
+====================================
+$finish called at time : 50 ns : File "C:/Users/smage/Desktop/IIITB/Sem 2/PE/floating point divider/Divider/Divider.srcs/sim_1/new/tb_fp_divider.v" Line 72
